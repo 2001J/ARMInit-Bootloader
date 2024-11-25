@@ -1,0 +1,35 @@
+# Ignore compiled files
+*.o
+*.so
+*.out
+*.a
+*.dylib
+*.dll
+*.exe
+
+# Ignore the executable
+stacklist
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+cmake-build-debug/
