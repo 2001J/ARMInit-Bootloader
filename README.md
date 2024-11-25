@@ -48,13 +48,13 @@ This bootloader provides basic system initialization and UART-based communicatio
 
 
 
-## Building the BareMetalVM Project
+## Building the ARMInit-Bootloader Project
 
-1. Clone the BareMetalVM repository:
+1. Clone the ARMInit-Bootloader repository:
    ```sh
-   git clone https://github.com/2001J/ARMInit
+   git clone https://github.com/2001J/ARMInit-Bootloader
    
-   cd ARMInit
+   cd ARMInit-Bootloader
    ```
 
 2. Build the project:
